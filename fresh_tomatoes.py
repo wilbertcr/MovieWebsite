@@ -2,6 +2,8 @@ import os
 import re
 import webbrowser
 
+# This code was provided by Udacity
+
 # Styles and scripting for the page
 main_page_head = '''
 <!DOCTYPE html>

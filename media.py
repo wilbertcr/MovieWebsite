@@ -1,6 +1,8 @@
 import webbrowser
 
 
+# This code was pretty much given by the Lesson referenced by the course material.as
+
 # Class declaration
 
 class Movie:

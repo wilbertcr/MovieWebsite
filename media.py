@@ -8,6 +8,10 @@ import webbrowser
 class Movie:
     # Constructor
     def __init__(self, title, storyline, poster_image, trailer_youtube):
+        """
+
+        :rtype: object
+        """
         self.title = title
         self.storyline = storyline
         self.poster_image_url = poster_image
